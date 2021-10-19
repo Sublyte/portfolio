@@ -20,7 +20,7 @@ export default function Contact() {
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
     })
-      .then(() => alert("Message sent!"))
+      .then(() => alert("Thanks for your message, I'll respond as soon as I'm able."))
       .catch((error) => alert(error));
   }
 
@@ -42,24 +42,25 @@ export default function Contact() {
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                ADDRESS
+                Base of Operation:
               </h2>
               <p className="mt-1">
-                97 Warren St. <br />
-                New York, NY 10007
+                St. Helier, <br />
+                Jersey, <br />
+                Channel Islands.
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
-                reedbarger@email.com
+              <a className="text-indigo-400 leading-relaxed text-xs">
+                josh.jewison@googlemail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">123-456-7890</p>
+              <p className="leading-relaxed">+44 77 977 47437</p>
             </div>
           </div>
         </div>
@@ -69,11 +70,13 @@ export default function Contact() {
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            Hire Me
+            Get In Touch
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            If you have a project you want to develop and need a website and or app developed. Please get in touch and we can discuss your needs. <br />
+            <br />
+            Or feel free to just say hi!
+        
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

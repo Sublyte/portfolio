@@ -1,49 +1,34 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Guess My Number",
+    subtitle: "Basic Number Guessing Game",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "This game generates a random number between 1 and 100 and to win you must guess the number. Each wrong guess will result in -1 point, send me a screen shot with your highscore :)",
+    image: "/projects/GuessMyNumber/guess.png",
+    link: "/projects/GuessMyNumber/index.html",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Die Vs. Die",
+    subtitle: "A Two-Player Game",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Your goal is to reach 100 points. You can roll on your turn as many times as you like to build up your score, but if you roll a 1 you lose all the score you have built up this turn. Choose wisely when you should hold your score and end your turn.",
+    image: "/projects/DiceGame/dicegame.png",
+    link: "/projects/DiceGame/index.html",
   },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+ 
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Joshua may not have any real testimonials yet since he's just starting out. But if you give him a chance he won't let you down.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Zoozle",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "I can't think of anything negative to say about Josh, Definatly worth giving a shot. Hire him for your next project.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
     company: "Dooble.io",
@@ -57,4 +42,6 @@ export const skills = [
   "Node",
   "GraphQL",
   "Material UI",
+  "CSS",
+  "HTML",
 ];
