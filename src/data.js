@@ -16,14 +16,14 @@ export const projects = [
     link: "/projects/DiceGame/index.html",
   },
 
-  {
-    title: "3D",
-    subtitle: "A 3D Tech Demo",
-    description:
-      "This is a small webpage built as a technical demo for 3D capabilities in Vanilla JavaScript. It's basic but the potential it has for designing 3D aspects or entirely 3D websites is endless.",
-    image: "/projects/3ddemo/3ddemo.png",
-    link: "/projects/3ddemo/index.html",
-  },
+  // {
+  //   title: "3D",
+  //   subtitle: "A 3D Tech Demo",
+  //   description:
+  //     "This is a small webpage built as a technical demo for 3D capabilities in Vanilla JavaScript. It's basic but the potential it has for designing 3D aspects or entirely 3D websites is endless.",
+  //   image: "/projects/3ddemo/3ddemo.png",
+  //   link: "/projects/3ddemo/index.html",
+  // },
  
 ];
 
