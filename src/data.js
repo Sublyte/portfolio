@@ -15,6 +15,14 @@ export const projects = [
     image: "/projects/DiceGame/dicegame.png",
     link: "/projects/DiceGame/index.html",
   },
+  {
+    title: "Pokedex",
+    subtitle: "So... you want to be a Pokemon master?",
+    description:
+      "This is built with nothing but HTML, JavaScript and CSS, plus the Pokemon API. It displays all the Pokemon (at time of Development up to Gen VIII). Give it a second, it's generationg 898 cards from the API ;)",
+    image: "/projects/pokedex/pokedex.png",
+    link: "/projects/pokedex/index.html",
+  },
 
   // {
   //   title: "3D",
