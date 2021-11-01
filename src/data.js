@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Crossed Swords",
+    subtitle: "Top Down 2D RPG",
+    description:
+      "This game is built mostly in JavaScript but also builds on a little CSS and HTML. This is something I am often working on and is likely to update over time. I will add the version number and date of version release to this description incase you want to try new things as they are finished.",
+    image: "",
+    link: "",
+  },
+  {
     title: "Guess My Number",
     subtitle: "Basic Number Guessing Game",
     description:
