@@ -11,7 +11,7 @@ export const projects = [
     title: "Die Vs. Die",
     subtitle: "A Two-Player Game",
     description:
-      "Your goal is to reach 100 points. You can roll on your turn as many times as you like to build up your score, but if you roll a 1 you lose all the score you have built up this turn. Choose wisely when you should hold your score and end your turn.",
+      "Your goal is to reach 100 points. You can roll on your turn as many times as you like to build up your score, but if you roll a 1 you lose all the score you have built up this turn and the other player begins their turn. Choose wisely when you should hold your score and end your turn.",
     image: "/projects/DiceGame/dicegame.png",
     link: "/projects/DiceGame/index.html",
   },
