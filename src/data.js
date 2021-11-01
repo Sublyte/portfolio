@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Top Down 2D RPG",
     description:
       "This game is built mostly in JavaScript but also builds on a little CSS and HTML. This is something I am often working on and is likely to update over time. I will add the version number and date of version release to the image displayed here incase you want to keep up-to-date with new things.",
-    image: "/projects/rpg/images/CrossedSwords011121.png",
+    image: "/projects/rpg/thumb.png",
     link: "/projects/rpg/index.html",
   },
   {
