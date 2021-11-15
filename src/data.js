@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "GPT3 Test Site",
+    subtitle: "Test Website based around GPT3 using React and Figma and CSS",
+    description:
+      "This website doesn't do much, I recreated the look of it as a proof of concept and to test my CSS skills. I may at sompoint build out the entire site but it is currently just this static front page.",
+    image: "/projects/GPT3TestSite/screenshot.png",
+    link: "https://joshtestsite.netlify.app",
+  },
+  {
     title: "Crossed Swords",
     subtitle: "Top Down 2D RPG",
     description:
