@@ -11,7 +11,7 @@ export const projects = [
     title: "Crossed Swords",
     subtitle: "Top Down 2D RPG",
     description:
-      "This game is built mostly in JavaScript but also builds on a little CSS and HTML. This is something I am often working on and is likely to update over time. I will add the version number and date of version release to the image displayed here incase you want to keep up-to-date with new things.",
+      "This game is built mostly in JavaScript but also builds on a little CSS and HTML. Last Update: 151121. Version 0.0.7. Version Notes: Added follow camera mechanics so that the POV follows the main character around rather than a fixed camera possition as the player moves around the scene. Also changed the background colours and the empty space colours. Stay tuned as this will update over time.",
     image: "/projects/rpg/thumb.png",
     link: "/projects/rpg/index.html",
   },
