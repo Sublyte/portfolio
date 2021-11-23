@@ -56,14 +56,14 @@ export const testimonials = [
     quote:
       "Joshua may not have any real testimonials yet since he's just starting out. But if you give him a chance he won't let you down.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
+    name: "Zidane Dejesus",
     company: "Zoozle",
   },
   {
     quote:
       "I can't think of anything negative to say about Josh, Definatly worth giving a shot. Hire him for your next project.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
+    name: "Jarvis Marquez",
     company: "Dooble.io",
   },
 ];
