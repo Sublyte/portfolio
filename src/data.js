@@ -3,7 +3,7 @@ export const projects = [
     title: "Chat WebApp",
     subtitle: "A Chat WebbAPP / Pager",
     description:
-      `This is not hosted anywhere currently to show you a working version however it is a Web Chat App that can be completely customised for your business or project, Logos, colour scheme ect. It also works as a pager and will send an SMS message to users to check their messages. It is fully responsive for mobile use and is secured with encryption and hashing to keep user data (passwords/mobile numbers) safe please get in touch for more info about this project.`,
+      `This is not hosted anywhere currently to show you a working version however it is a Web Chat App that can be completely customised for your business or project, Logos, colour scheme ect. It also works as a pager and will send an SMS message to users to check their messages. It is fully responsive for mobile use and is secured with encryption and hashing to keep user data (passwords/mobile numbers) safe. Please get in touch for more info about this project.`,
     image: "/projects/ChatWebApp/chatcap.png",
     link: "mailto:josh.jewison@googlemail.com",
   },
@@ -62,14 +62,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Joshua may not have any real testimonials yet since he's just starting out. But if you give him a chance he won't let you down.                                                                                                                                                                                                                                                                                                                                                 `,
+      "Joshua may not have any real testimonials yet since he's just starting out. But if you give him a chance he won't let you down.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Zidane Dejesus",
     company: "Zoozle",
   },
   {
     quote:
-      "I can't think of anything negative to say about Josh, Definatly worth giving a shot. Hire him for your next project.                                                                                                                                                                                                                                                                                                                                                             `,
+      "I can't think of anything negative to say about Josh, Definatly worth giving a shot. Hire him for your next project.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Jarvis Marquez",
     company: "Dooble.io",
