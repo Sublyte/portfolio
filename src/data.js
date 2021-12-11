@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Chat WebApp",
+    subtitle: "A Chat WebbAPP / Pager",
+    description:
+      "This is not hosted anywhere currently to show you a working version however it is a Web Chat App that can be completely customised for your business or project, Logos, colour scheme ect. It also works as a pager and will send an SMS message to users to check their messages. It is fully responsive for mobile use and is secured with encryption and hashing to keep user data (passwords/mobile numbers) safe please get in touch for more info about this project.",
+    image: "/projects/ChatWebApp/chatcap.png",
+    link: "mailto:josh.jewison@googlemail.com",
+  },
+  {
     title: "GPT3 Test Site",
     subtitle: "Test Website based around GPT3 using React and Figma and CSS",
     description:
